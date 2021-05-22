@@ -1,0 +1,3 @@
+"E:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\waycast.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\waycast.dir/objects.a @CMakeFiles\waycast.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\waycast.dir/objects.a -Wl,--no-whole-archive  -o waycast.exe -Wl,--out-implib,libwaycast.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\waycast.dir\linklibs.rsp

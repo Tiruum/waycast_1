@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/resource.h
+
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/resource.rc
+windows.h
+-
+commctrl.h
+-
+richedit.h
+-
+resource.h
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/resource.h
+

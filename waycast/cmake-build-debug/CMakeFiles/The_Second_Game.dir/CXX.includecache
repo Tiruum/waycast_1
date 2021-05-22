@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/main.cpp
+SFML/Graphics.hpp
+-
+cmath
+-
+iostream
+-
+set
+-
+iomanip
+-
+unistd.h
+-
+

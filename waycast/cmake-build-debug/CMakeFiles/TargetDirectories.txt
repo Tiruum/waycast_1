@@ -1,0 +1,3 @@
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/cmake-build-debug/CMakeFiles/waycast.dir
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Timur/Documents/CodeBlocks projects/waycast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
